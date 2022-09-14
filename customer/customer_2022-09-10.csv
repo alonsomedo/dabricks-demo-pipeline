@@ -1,4 +1,4 @@
-﻿customerId,first, last, phone, email, gender, location,is_active
+﻿customerId,firstName, lastName, phone, email, gender,address,is_active
 CUS50595231748,Steven,Meyer,(968) 497-6188,ewezimo@nap.am,Female,1605 Mivem Trail,FALSE
 CUS41095949824,Vernon,Bowman,(679) 452-2816,azohu@ki.mg,Male,1117 Hela Terrace,TRUE
 CUS77289220724,Louisa,Curtis,(281) 228-4979,zac@sih.gi,Male,929 Asuha Point,FALSE

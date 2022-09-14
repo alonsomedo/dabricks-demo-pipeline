@@ -1,4 +1,4 @@
-﻿customerId,first, last, phone, email, gender, location,is_active
+﻿customerId,firstName, lastName, phone, email, gender,address,is_active
 C0555697703960,Allen,Boyd,(969) 888-6766,tohwet@ivomofo.ro,Male,911 Vofe Avenue,TRUE
 C0591382780948,Adam,Chavez,(417) 362-7332,tifnekad@viobda.bt,Male,935 Ojoh View,TRUE
 C0536947218124,Isabella,Brown,(986) 656-8280,mipur@co.gs,Male,213 Licuv Parkway,TRUE

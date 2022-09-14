@@ -1,4 +1,4 @@
-﻿customerId,first, last, phone, email, gender, location,is_active
+﻿customerId,firstName, lastName, phone, email, gender,address,is_active
 CUS50595231748,Steven,Meyer,(617) 603-1111,semes0@statcounter.com,Male,1818 Owaki Junction,FALSE
 CUS41095949824,Vernon,Bowman,(605) 273-7631,kpiller1@jimdo.com,Male,1917 Wakpoz Drive,TRUE
 CUS77289220724,Louisa,Curtis,(875) 845-1506,twhitchurch2@npr.org,Female,728 Elmo Circle,FALSE
